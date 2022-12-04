@@ -1,9 +1,11 @@
-import PRODUTOS from "./mock";
+import Main from "./Components/Main";
+
+
 
 export default function App() {
   return (
    <div>
-    e-commercie
+    <Main/>
    </div>
   );
 }
